@@ -24,7 +24,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "github-base": "^0.5.4"
+    "github-base": "git@github.com:tennisonchan/github-base.git#tc_fix_params_on_request"
   },
   "devDependencies": {
     "data-store": "^1.0.0",
